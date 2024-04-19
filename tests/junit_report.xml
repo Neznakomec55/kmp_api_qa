@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="4.151" timestamp="2024-03-21T18:44:08.511054" hostname="sbsv-fpc-3"><testcase classname="tests.account_test.TestAccount" name="test_account_profile" time="3.514" /></testsuite></testsuites>
